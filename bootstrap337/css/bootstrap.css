@@ -6775,5 +6775,64 @@ h2 {
   text-align: center;
 }
 
+body {
+  padding-bottom: 70px;
+  background-image: url(https://www.walldevil.com/wallpapers/a90/web-background-design-portfolio-website-grey.jpg);: grey;
+}
+
+.col-xs-6.col-xs-offset-1 {
+  background: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 7px;
+
+}
+
+.col-xs-3.col-xs-offset-1 {
+  background: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 7px;
+}
+
+.aboutmewords {
+  margin-left: 0.5em;
+}
+
+hr {
+  width: 95%;
+}
+
+.connectimg {
+  width: 70px;
+  height: 70px;
+  padding-right: 3px;
+}
+
+.connectimg.gh {
+  width: 70px;
+  height: 70px;
+}
+
+.connectimg.li {
+  width: 70px;
+  height: 70px;
+}
+
+.connectimg.so {
+  width: 70px;
+  height: 70px;
+}
+
+.navbarfixed {
+  text-align: center;
+  color: white;
+  padding-top: 15px;
+}
+
+.container1 {
+  margin-top: 7%
+}
+
 
 /*# sourceMappingURL=bootstrap.css.map */
