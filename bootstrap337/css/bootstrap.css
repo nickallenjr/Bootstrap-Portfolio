@@ -6759,4 +6759,21 @@ button.close {
     clear: both;
   }
 }
+.img-responsive {
+  float: left;
+  width: 200px;
+  height: 200px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+}
+
+p {
+  text-indent: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+
 /*# sourceMappingURL=bootstrap.css.map */
