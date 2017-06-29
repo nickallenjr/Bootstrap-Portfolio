@@ -6803,25 +6803,24 @@ hr {
   width: 95%;
 }
 
-.connectimg {
-  width: 70px;
-  height: 70px;
-  padding-right: 3px;
+.row.connectimgrow {
+  margin: 21px;
 }
 
+.connectimg {
+  width: 100px;
+  height: 100px;
+}
 .connectimg.gh {
-  width: 70px;
-  height: 70px;
+  
 }
 
 .connectimg.li {
-  width: 70px;
-  height: 70px;
+ 
 }
 
 .connectimg.so {
-  width: 70px;
-  height: 70px;
+  
 }
 
 .navbarfixed {
@@ -6834,5 +6833,20 @@ hr {
   margin-top: 7%
 }
 
+.thumbnail {
+    position: relative;
+}
 
+.caption {
+    margin-left: 0%;
+    position: absolute;
+    background: lightblue;
+    top: 80%;
+    left: 0;
+    width: 100%;
+}
+
+.gname {
+  color: white;
+}
 /*# sourceMappingURL=bootstrap.css.map */
